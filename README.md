@@ -5,7 +5,7 @@ This project showcases a Power BI dashboard designed to simulate real-time analy
 
 ## 📥 Download
 
-[⬇️ Download Power BI Dashboard (PBIX)](https://github.com/mlhmatthew/hospital-operations-dashboard/raw/main/dashboard/hospital-dashboard.pbix)
+[⬇️ Download Power BI Dashboard (PBIX)](https://drive.google.com/file/d/1aTG3RQRU3EKLXAMMWDDTztBuJ5lHSgmS/view)
 
 📊 Key Features
 4 Role-Based Views:
