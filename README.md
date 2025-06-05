@@ -22,11 +22,12 @@ Interactive Filters: Enable drill-down analysis by department, diagnosis, and ti
 
 ## 🖼️ Dashboard Previews
 
-- [Main Dashboard Overview](assets/main-dashboard.png)
-- [Medical Team View](assets/medical-view.png)
-- [Pharmacy Team View](assets/pharmacy-view.png)
-- [Administrative Team View](assets/admin-view.png)
-- [Financial Team View](assets/financial-view.png)
+- [Home Page Overview](assets/Home%20Page.png)
+- [Medical Team View](assets/Medical%20Team%20View%20Dashboard.png)
+- [Pharmacy Team View](assets/Pharmacy%20Team%20View%20Dashboard.png)
+- [Administrative Team View](assets/Administrative%20View%20Dashboard.png)
+- [Financial Team View](assets/Finance%20Team%20View%20Dashboard.png)
+- [Room View](assets/Room%20View%20Dashboard.png)
 
 
 Note: This dashboard is based on synthetic data and is shared for demonstration purposes only.
